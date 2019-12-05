@@ -1,4 +1,4 @@
-# wifi_recon_tool
+# wifi recon tool
 tool to find IP and MAC address of all devices connected to your network
 
 to run it use the command:
